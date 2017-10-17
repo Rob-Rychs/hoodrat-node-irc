@@ -1,7 +1,7 @@
 {
   "name": "hoodrat-node-irc",
-  "version": "1.0.0",
-  "description": "A barbones IRC because who a cellphone bill anyways",
+  "version": "1.0.1",
+  "description": "A barbones IRC because who needs a cellphone bill anyways",
   "scripts": {
     "start": "node --debug --inspect server-mvp.js",
     "test": "echo \"Error: no test specified\" && exit 1"

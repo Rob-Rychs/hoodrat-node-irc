@@ -18,7 +18,7 @@
 
 # How to use this repo
 
-1. `git clone`, `npm install` and `npm start`
+1. `npm install hoodrat-node-irc` and then `npm start`
 
 2. Open a new terminal. Press `CMD+D` three times
 
